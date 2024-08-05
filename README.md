@@ -11,3 +11,11 @@
 # Descrição Linguagem em Python
 Curso de Lógica em Python
 
+Código Python utilizado na calculadora é para utilizar com entrada de Login e Senha
+o intuito é que o usuário (Professor) consiga
+
+* Adicionar notas dos alunos;
+* Analisar as médias;
+* Verificar a aprovação ou reprovação do aluno;
+* Comparar médias e etc.
+
